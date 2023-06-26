@@ -1,5 +1,6 @@
 {
-  "name": "react-trello-ts-root",
+  "name": "blitz/react-trello-ts",
+  "version": "0.0.0",
   "scripts": {
     "build": "turbo run build",
     "test:unit": "turbo run test:unit",
