@@ -6,6 +6,8 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+Customize fork of [KaiSpencer/react-trello-ts](https://github.com/KaiSpencer/react-trello-ts)
+
 Typescript fork of [rcdexta/react-trello](https://github.com/rcdexta/react-trello)
 
 Pluggable components to add a Trello (like) kanban board to your application

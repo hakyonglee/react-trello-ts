@@ -1,5 +1,5 @@
 {
-  "name": "blitz/react-trello-ts",
+  "name": "react-trello-ts-blitz",
   "version": "0.0.0",
   "scripts": {
     "build": "turbo run build",
@@ -7,7 +7,7 @@
     "test:integration": "turbo run test:integration",
     "lint": "turbo run lint",
     "dev": "turbo run dev",
-	"release": "turbo run build --filter=react-trello-ts && changeset publish"
+	"release": "turbo run build --filter=react-trello-ts-blitz && changeset publish"
   },
   "devDependencies": {
     "rome": "^10.0.1",
